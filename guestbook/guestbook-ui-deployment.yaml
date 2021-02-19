@@ -13,6 +13,7 @@ spec:
       labels:
         app: guestbook-ui
         #app1: guestbook-ui2
+        #app1: new-branch
     spec:
       containers:
       - image: gcr.io/heptio-images/ks-guestbook-demo:0.2
